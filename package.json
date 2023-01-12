@@ -1,5 +1,6 @@
 {
-  "name": "imagine-bot",
+  "name": "image-bot",
+  "author": "rankydev - Ranko Spegar",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +8,6 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.7.1"
