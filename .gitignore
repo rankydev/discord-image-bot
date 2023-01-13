@@ -1,3 +1,4 @@
 .DS_Store
+.env
 ai-image-bot/tmp
 node_modules
